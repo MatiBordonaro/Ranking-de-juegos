@@ -1,3 +1,4 @@
+//Las contraseñas cargadas en la base de datos son iguales a los nombres de usuarios correspondiente (menos la de webadmin)
 # Ranking de juegos
 Integrantes: Matías Bordonaro (matiasbordonarokpo@gmail.com) - Facundo Malagueño (malagfacu7@gmail.com)    
 Temática: Ranking de juegos.    
